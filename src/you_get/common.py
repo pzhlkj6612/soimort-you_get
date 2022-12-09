@@ -42,6 +42,7 @@ SITES = {
     'douyin'           : 'douyin',
     'douyu'            : 'douyutv',
     'ehow'             : 'ehow',
+    'eplus'            : 'eplus',
     'facebook'         : 'facebook',
     'fc2'              : 'fc2video',
     'flickr'           : 'flickr',

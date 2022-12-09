@@ -17,6 +17,7 @@ from .douban import *
 from .douyin import *
 from .douyutv import *
 from .ehow import *
+from .eplus import *
 from .facebook import *
 from .fc2video import *
 from .flickr import *
